@@ -1,4 +1,4 @@
-# UNSW-NB15 Intrusion Detection with Deep Neural Network
+# UNSW-NB15 Intrusion Detection with Transformer Algorithm
 
 ## Overview
 This project implements a deep neural network model designed to detect and classify cyber-attacks using the UNSW-NB15 dataset. The model is optimized to effectively handle imbalanced datasets, ensuring robust performance in real-world scenarios.
